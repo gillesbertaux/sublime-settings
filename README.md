@@ -1,6 +1,6 @@
 ## Personal Sublime Config 
 
-``
+```
 {
 	"installed_packages":
 	[
@@ -21,4 +21,4 @@
 	]
 }
 
-``
+```
